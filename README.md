@@ -15,7 +15,6 @@ Competencies:
 
 If you like my profile you can contact me at:
 📧 patoad13@gmail.com
-👨‍🎓  github.com/patoad
 📱  (+54) 3535690397
 <!--
 **Patoad/Patoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
